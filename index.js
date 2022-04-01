@@ -2,7 +2,7 @@
  * Robot for LinkedIn
  * v 1.0
  *
- * @author Vyacheslav Bodrov bigturtle@i.ua
+ * @author Vyacheslav B
  */
 
 const fs = require('fs');
