@@ -19,8 +19,8 @@
   "dependencies": {
     "commander": "^2.20.0",
     "http": "0.0.0",
-    "puppeteer": "^2.0.0",
-    "puppeteer-core": "^2.0.0"
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
